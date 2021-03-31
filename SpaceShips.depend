@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1617180512 source:c:\users\administrator\documents\spaceships\main.cpp
+	<iostream>
+	<string.h>
+	<SDL.h>
+	<time.h>
+	<vector>
+	<SDL_image.h>
+	"Texture.h"
+	"dichuyenmain.h"
+	"kedich.h"
+	"mainbullet.h"
+
+1617152583 c:\users\administrator\documents\spaceships\texture.h
+
+1617176057 c:\users\administrator\documents\spaceships\dichuyenmain.h
+
+1617155766 c:\users\administrator\documents\spaceships\kedich.h
+
+1617179859 c:\users\administrator\documents\spaceships\mainbullet.h
+	<vector>
+
